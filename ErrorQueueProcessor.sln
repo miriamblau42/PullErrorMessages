@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateErrormessages", "ErrorQueuePuller\GenerateErrormessages.csproj", "{02DA1E52-3BB4-4C7A-8248-EFFDA9925A28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorMessagesPuller", "ErrorMessagesPuller\ErrorMessagesPuller.csproj", "{BDC3C88B-6DF4-49A9-B886-0D886C984F13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02DA1E52-3BB4-4C7A-8248-EFFDA9925A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02DA1E52-3BB4-4C7A-8248-EFFDA9925A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02DA1E52-3BB4-4C7A-8248-EFFDA9925A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02DA1E52-3BB4-4C7A-8248-EFFDA9925A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC3C88B-6DF4-49A9-B886-0D886C984F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC3C88B-6DF4-49A9-B886-0D886C984F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC3C88B-6DF4-49A9-B886-0D886C984F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC3C88B-6DF4-49A9-B886-0D886C984F13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E81323EF-1432-4D2E-8E7A-8E6E7F56DA62}
+	EndGlobalSection
+EndGlobal
